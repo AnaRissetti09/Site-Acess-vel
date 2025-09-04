@@ -32,3 +32,8 @@ alternaContraste.addEventListener('click', function(){
 document.body.classList.toggle('alto-contraste');
 })
 })
+
+ScrollReveal().reveal('#inicio', { delay: 500 });
+34 ScrollReveal().reveal('#tropicalia', { delay: 500 });
+35 ScrollReveal().reveal('#galeria', { delay: 500 });
+36 ScrollReveal().reveal('#contato', { delay: 500 });
